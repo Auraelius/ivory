@@ -1,0 +1,23 @@
+{
+  "name": "ivory",
+  "version": "1.0.0",
+  "description": "A playground for piano location ideas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Auraelius/ivory.git"
+  },
+  "author": "Alan Zimmerman et al",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Auraelius/ivory/issues"
+  },
+  "homepage": "https://github.com/Auraelius/ivory#readme",
+  "dependencies": {
+    "shell": "^0.5.0",
+    "shelljs": "^0.8.3"
+  }
+}
